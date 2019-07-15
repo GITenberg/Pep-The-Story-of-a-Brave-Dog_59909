@@ -1,5 +1,8 @@
 _repo: Pep-The-Story-of-a-Brave-Dog_59909
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59909-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawkes, Clarence
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9897'
     url: http://www.gutenberg.org/2009/agents/9897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59909#Pep-The-Story-of-a-Brave-Dog
 gutenberg_issued: '2019-07-13'
 gutenberg_type: Text
 identifiers:
